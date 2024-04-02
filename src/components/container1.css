@@ -1,0 +1,111 @@
+.blur-effect {
+  align-self: stretch;
+  height: 0.9px;
+  position: relative;
+  border-top: 0.9px solid var(--grey-15);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.text-button10,
+.text-button7,
+.text-button8,
+.text-button9 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 62px;
+}
+.text-button10,
+.text-button8,
+.text-button9 {
+  min-width: 88px;
+}
+.text-button10,
+.text-button9 {
+  min-width: 79px;
+}
+.text-button10 {
+  min-width: 64px;
+}
+.contact {
+  display: inline-block;
+  min-width: 86px;
+}
+.contact,
+.news-events,
+.testimonials {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 600;
+}
+.blogs {
+  display: inline-block;
+  min-width: 58px;
+}
+.blogs,
+.key-handover {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 600;
+}
+.container2,
+.glow-effect,
+.shadow-effect {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.shadow-effect {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.container2,
+.glow-effect {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.glow-effect {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-16xl);
+}
+.container2 {
+  width: 1544px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-600);
+  border: 0.9px solid var(--grey-15);
+  flex-direction: column;
+  padding: var(--padding-mini-5) 0 var(--padding-16xl);
+  gap: var(--gap-lgi-6);
+  flex-shrink: 0;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--p1-size);
+  color: var(--white);
+  font-family: var(--p1);
+}
+@media screen and (max-width: 1150px) {
+  .shadow-effect {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .blogs,
+  .contact,
+  .key-handover,
+  .news-events,
+  .testimonials,
+  .text-button10,
+  .text-button7,
+  .text-button8,
+  .text-button9 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+}

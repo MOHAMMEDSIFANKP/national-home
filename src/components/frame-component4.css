@@ -1,0 +1,471 @@
+.component-364-child {
+  width: 100%;
+  height: 2161.3px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: -1315px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-inner {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 122.2px;
+}
+.about-us {
+  position: absolute;
+  top: 30.6px;
+  left: 148.2px;
+  line-height: 120%;
+  font-weight: 300;
+}
+.frame-container,
+.lorem-ipsum-dolor {
+  width: 516px;
+  height: 122.2px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+  text-align: center;
+  font-size: var(--h3-size);
+}
+.lorem-ipsum-dolor {
+  height: 141px;
+  font-size: var(--p1-size);
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  font-family: var(--p1);
+  color: var(--body-color);
+  text-align: justify;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.best-builders,
+.in {
+  margin: 0;
+}
+.best-builders,
+.in,
+.span {
+  background: linear-gradient(99.86deg, #fff, rgba(255, 255, 255, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.navi-mumbai {
+  margin: 0;
+}
+.and {
+  background: linear-gradient(99.86deg, #fff, rgba(255, 255, 255, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.and,
+.kerala {
+  margin: 0;
+}
+.best-builders-in-container {
+  margin: 0;
+  width: 449px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 449px;
+  max-width: 100%;
+}
+.a-visionary-real {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.the-firm-has {
+  margin: 0;
+}
+.a-visionary-real-container,
+.read-more2 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: inline-block;
+}
+.a-visionary-real-container {
+  align-self: stretch;
+  height: 244px;
+}
+.read-more2 {
+  flex: 1;
+  font-size: var(--p1-size);
+  font-family: var(--p1);
+  color: var(--white);
+  text-align: center;
+  min-width: 109px;
+}
+.instance-inner {
+  height: 38px;
+  width: 38px;
+  position: relative;
+}
+.read-more-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-mini) var(--padding-mini)
+    var(--padding-xl);
+  background-color: var(--complementary);
+  width: 194px;
+  height: 68px;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  white-space: nowrap;
+}
+.read-more-container:hover {
+  background-color: var(--color-slateblue);
+}
+.a-visionary-real-estate-develo-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-32xl);
+  min-width: 512px;
+  max-width: 100%;
+  text-align: justify;
+  font-size: var(--p1-size);
+  color: var(--body-color);
+  font-family: var(--p1);
+}
+.best-builders-in-navi-mumbai-a-parent {
+  width: 1289px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.component-364-inner {
+  width: 1544px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  color: var(--color-crimson);
+}
+.div4 {
+  position: relative;
+  line-height: 77px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 38px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xl);
+}
+.launched1 {
+  position: relative;
+  font-size: var(--p1-size);
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-family: var(--p1);
+  color: var(--body-color);
+  display: inline-block;
+  min-width: 96px;
+}
+.frame-parent2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 244px;
+  max-width: 100%;
+}
+.div5,
+.sold-out1 {
+  position: relative;
+  display: inline-block;
+}
+.div5 {
+  line-height: 77px;
+  font-weight: 500;
+  min-width: 98px;
+}
+.sold-out1 {
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  min-width: 84px;
+}
+.parent2,
+.sold-out-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.sold-out-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-5xs) 0 var(--padding-7xs);
+  font-size: var(--p1-size);
+  color: var(--body-color);
+  font-family: var(--p1);
+}
+.parent2 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 244px;
+  max-width: 100%;
+}
+.div6 {
+  flex: 1;
+  position: relative;
+  line-height: 77px;
+  font-weight: 500;
+}
+.frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-44xl);
+}
+.ready-to-move1 {
+  position: relative;
+  font-size: var(--p1-size);
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  font-family: var(--p1);
+  color: var(--body-color);
+  white-space: nowrap;
+}
+.frame-parent3 {
+  flex: 0.5839;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-60xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 244px;
+  max-width: 100%;
+}
+.div7 {
+  flex: 1;
+  position: relative;
+  line-height: 77px;
+  font-weight: 500;
+}
+.wrapper1 {
+  width: 85px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.ongoing1 {
+  position: relative;
+  font-size: var(--p1-size);
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-family: var(--p1);
+  color: var(--body-color);
+  display: inline-block;
+  min-width: 85px;
+}
+.frame-parent4 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  min-width: 244px;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 1544px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-61xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.component-364 {
+  flex: 1;
+  background-color: var(--black);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-113xl) var(--padding-xl) var(--padding-67xl);
+  position: relative;
+  gap: var(--gap-101xl);
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.component-364-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -20px;
+  text-align: left;
+  font-size: var(--h2-size);
+  color: var(--white);
+  font-family: var(--p1-bold);
+}
+@media screen and (max-width: 1350px) {
+  .frame-parent1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .best-builders-in-container {
+    flex: 1;
+  }
+  .best-builders-in-navi-mumbai-a-parent {
+    flex-wrap: wrap;
+  }
+  .component-364 {
+    padding-top: var(--padding-21xl);
+    padding-bottom: var(--padding-37xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .about-us {
+    font-size: var(--h4-size);
+    line-height: 49px;
+  }
+  .best-builders-in-container {
+    font-size: var(--h3-size);
+    line-height: 61px;
+    min-width: 100%;
+  }
+  .a-visionary-real-estate-develo-parent {
+    min-width: 100%;
+  }
+  .best-builders-in-navi-mumbai-a-parent {
+    gap: 53px 26px;
+  }
+  .div4,
+  .div5,
+  .div6,
+  .div7 {
+    font-size: var(--h3-size);
+    line-height: 61px;
+  }
+  .frame-parent1 {
+    gap: 80px 40px;
+  }
+  .component-364 {
+    gap: 60px 120px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us {
+    font-size: var(--font-size-12xl);
+    line-height: 37px;
+  }
+  .lorem-ipsum-dolor {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .best-builders-in-container {
+    font-size: var(--font-size-19xl);
+    line-height: 46px;
+  }
+  .a-visionary-real-container {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .a-visionary-real-estate-develo-parent {
+    gap: 25px 51px;
+  }
+  .div4 {
+    font-size: var(--font-size-19xl);
+    line-height: 46px;
+  }
+  .launched1 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .div5 {
+    font-size: var(--font-size-19xl);
+    line-height: 46px;
+  }
+  .sold-out1 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .div6 {
+    font-size: var(--font-size-19xl);
+    line-height: 46px;
+  }
+  .ready-to-move1 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .frame-parent3 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+    flex: 1;
+  }
+  .div7 {
+    font-size: var(--font-size-19xl);
+    line-height: 46px;
+  }
+  .ongoing1 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .frame-parent1 {
+    gap: 80px 20px;
+  }
+  .component-364 {
+    gap: 30px 120px;
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+}

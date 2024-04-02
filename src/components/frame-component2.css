@@ -1,0 +1,20 @@
+.thane-wrapper {
+  width: 1619.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-5xs-4) var(--padding-36xl-2) var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-82xl);
+  color: var(--body-color);
+  font-family: var(--p1);
+}
+@media screen and (max-width: 800px) {
+  .thane-wrapper {
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+}

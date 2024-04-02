@@ -1,0 +1,120 @@
+.lorem-ipsum-dolor2,
+.thane1 {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.thane1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 152px;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor2 {
+  align-self: stretch;
+  font-size: var(--p1-size);
+  line-height: 150%;
+  text-align: justify;
+}
+.thane-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.read-more4 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 128px;
+}
+.instance-child1 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+}
+.read-more-parent2 {
+  width: 212px;
+  height: 68px;
+  border-radius: var(--br-31xl);
+  background-color: var(--complementary);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-mini) var(--padding-mini)
+    var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-2xs);
+  white-space: nowrap;
+  text-align: center;
+  font-size: var(--p1-size);
+  color: var(--white);
+}
+.frame-parent8 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  min-width: 512px;
+  max-width: 100%;
+}
+.pencilsketchadjusted-6319594-1-icon {
+  height: 383.6px;
+  width: 768px;
+  position: relative;
+  max-width: 100%;
+}
+.thane {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-82xl);
+  color: var(--body-color);
+  font-family: var(--p1);
+}
+@media screen and (max-width: 1350px) {
+  .pencilsketchadjusted-6319594-1-icon {
+    flex: 1;
+  }
+  .thane {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .thane1 {
+    font-size: var(--font-size-31xl);
+    line-height: 91px;
+  }
+  .frame-parent8 {
+    min-width: 100%;
+  }
+  .thane {
+    gap: 50px 25px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .thane1 {
+    font-size: var(--font-size-11xl);
+    line-height: 61px;
+  }
+  .lorem-ipsum-dolor2 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .frame-parent8 {
+    gap: 20px 40px;
+  }
+}

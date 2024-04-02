@@ -1,0 +1,133 @@
+.kochi-child {
+  height: 204.6px;
+  width: 713px;
+  position: relative;
+  max-width: 100%;
+}
+.kochi1,
+.lorem-ipsum-dolor3 {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.kochi1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 152px;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor3 {
+  align-self: stretch;
+  font-size: var(--p1-size);
+  line-height: 150%;
+  text-align: justify;
+}
+.kochi-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.read-more5 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 128px;
+}
+.instance-child2 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+}
+.read-more-parent3 {
+  width: 212px;
+  height: 68px;
+  border-radius: var(--br-31xl);
+  background-color: var(--complementary);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-mini) var(--padding-mini)
+    var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-2xs);
+  white-space: nowrap;
+  text-align: center;
+  font-size: var(--p1-size);
+  color: var(--white);
+}
+.frame-parent9 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  min-width: 512px;
+  max-width: 100%;
+}
+.kochi,
+.kochi-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.kochi {
+  flex: 1;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-81xl);
+  z-index: 3;
+}
+.kochi-wrapper {
+  width: 1619.4px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xs-4) var(--padding-7xl-6) var(--padding-3xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-82xl);
+  color: var(--body-color);
+  font-family: var(--p1);
+}
+@media screen and (max-width: 1350px) {
+  .kochi-child {
+    flex: 1;
+  }
+  .kochi {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .kochi1 {
+    font-size: var(--font-size-31xl);
+    line-height: 91px;
+  }
+  .frame-parent9 {
+    min-width: 100%;
+  }
+  .kochi {
+    gap: 100px 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .kochi1 {
+    font-size: var(--font-size-11xl);
+    line-height: 61px;
+  }
+  .lorem-ipsum-dolor3 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+  .frame-parent9 {
+    gap: 20px 40px;
+  }
+  .kochi {
+    gap: 100px 25px;
+  }
+}

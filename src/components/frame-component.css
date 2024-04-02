@@ -1,0 +1,105 @@
+.image-processor {
+  width: 1544px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.prev5 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 45px;
+}
+.prev4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.square-shape-child {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.square-shape {
+  height: 12.5px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-2xs-5);
+  box-sizing: border-box;
+}
+.prev6 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 47px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.next {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.frame-wrapper1,
+.next,
+.prev-group {
+  display: flex;
+  flex-direction: row;
+}
+.prev-group {
+  width: 200px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-mini-5);
+  z-index: 1;
+}
+.frame-wrapper1 {
+  width: 456px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--p1-size);
+}
+.image-processor-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--h6-size);
+  color: var(--white);
+  font-family: var(--p1-bold);
+}
+@media screen and (max-width: 800px) {
+  .image-processor {
+    gap: 40px 20px;
+  }
+  .image-processor-parent {
+    gap: 25px 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .prev5,
+  .prev6 {
+    font-size: var(--font-size-mid);
+    line-height: 20px;
+  }
+}
